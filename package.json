@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "@types/lodash": "^4.14.197",
-    "better-sqlite3": "^8.5.1",
+    "better-sqlite3": "^9.0.0",
     "better-sqlite3-multiple-ciphers": "^8.5.1",
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
